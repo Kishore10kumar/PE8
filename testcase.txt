@@ -1,0 +1,45 @@
+Write an email to my manager requesting two days of leave due to a family function. Keep it polite and professional, and limit it to 50 words.
+
+claude
+
+**Subject:** Leave Request – [Start Date] to [End Date]
+
+Dear [Manager's Name],
+
+I would like to request two days of leave on [Date 1] and [Date 2] due to a family function. I will ensure my pending tasks are handled before I leave and remain available for urgent matters if needed.
+
+Thank you for your consideration.
+
+Best regards,
+[Your Name]
+
+*(Word count: 49, excluding subject line)*
+
+chatgpt
+
+Dear Manager,
+
+I would like to request two days of leave due to a family function. Kindly approve my leave for the required dates.
+
+I will ensure that my pending tasks are managed before my absence.
+
+Thank you for your consideration.
+
+Best regards,\
+[Your Name]
+
+gemini
+
+I kept the request polite and concise under 50 words while including placeholders for your leave dates and names.
+
+To: [Manager's Email]
+Subject: Leave Request – [Start Date] to [End Date]
+
+Dear [Manager's Name],
+
+I am writing to request two days of leave on [Start Date] and [End Date] to attend a family function. I will ensure my tasks are covered during my absence.
+
+Thank you for your consideration.
+
+Best regards,
+[Your Name]
